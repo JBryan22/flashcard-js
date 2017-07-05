@@ -1,0 +1,81 @@
+.def-hide-js {
+  display:none;
+}
+
+.def-hide-op {
+  display: none;
+}
+
+.def-hide-va {
+  display: none;
+}
+
+.def-hide-vnc {
+  display: none;
+}
+
+.def-hide-fu {
+  display: none;
+}
+
+.def-hide-me {
+  display: none;
+}
+
+.def-hide-arg {
+  display: none;
+}
+
+.def-hide-pm {
+  display: none;
+}
+
+.def-hide-re {
+  display: none;
+}
+
+.def-hide-ch {
+  display: none;
+}
+
+.def-hide-str {
+  display: none;
+}
+
+.def-hide-bool {
+  display: none;
+}
+
+.def-hide-und {
+  display: none;
+}
+
+.def-hide-NaN {
+  display: none;
+}
+
+.def-hide-esc {
+  display: none;
+}
+
+.def-hide-al {
+  display: none;
+}
+
+.def-hide-com {
+  display: none;
+}
+
+.def-hide-jq {
+  display: none;
+}
+
+.def-hide-attr {
+  display: none;
+}
+
+span {
+  text-decoration: underline;
+  cursor:pointer;
+  color:blue;
+}
